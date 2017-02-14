@@ -16,6 +16,9 @@ public class Prueba1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JFrame v1 = new JFrame("Titulo de ventana");
+        v1.setSize(300,200);
+        
     }
     
 }
